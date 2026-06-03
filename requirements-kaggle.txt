@@ -1,0 +1,9 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+python-multipart==0.0.18
+pyngrok==7.2.3
+git+https://github.com/huggingface/transformers
+accelerate
+qwen-vl-utils==0.0.8
+torch
+Pillow==11.1.0
