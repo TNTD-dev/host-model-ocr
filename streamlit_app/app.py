@@ -4,7 +4,7 @@ import requests
 import streamlit as st
 from PIL import Image
 
-st.set_page_icon(page_icon="🔍", layout="wide")
+st.set_page_config(page_icon="🔍", layout="wide")
 
 # ---------------------------------------------------------------------------
 # Config
